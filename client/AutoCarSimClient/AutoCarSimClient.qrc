@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="AutoCarSimClient"/>
+  <qresource prefix="res">
+    <file>img/baseline-close-px.png</file>
+    <file>img/dakai.png</file>
+    <file>img/daoru.png</file>
+    <file>img/huabanfuben.png</file>
+    <file>img/xinjian.png</file>
+    <file>img/zuidahua.png</file>
+    <file>img/zuixiaohua.png</file>
+  </qresource>
+</RCC>
